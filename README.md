@@ -18,11 +18,7 @@ My blueprint have some different icons from the actual LinkedIn page as I was un
 
 ![Screenshot (174)](https://user-images.githubusercontent.com/61161878/88181621-c4d38a00-cc4c-11ea-9bb6-64ab7f2b841d.png)
 
-
-## Some Similarities
-
-\n
-\n
+\n ## Some Similarities
 
 ### Actual Linkedin Homepage:
 
