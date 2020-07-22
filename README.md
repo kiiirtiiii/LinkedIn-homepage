@@ -8,3 +8,11 @@ Some of the sections also shows excatly the same response on hovering or clickin
 My blueprint have some different icons from the actual LinkedIn page as I was unable to find exactly the same for free.
 
 ## Screenshots of the project
+
+### Actual LinkedIn Homepage : 
+
+![Screenshot (171)](https://user-images.githubusercontent.com/61161878/88181212-2810ec80-cc4c-11ea-8c53-a51c194e2226.png)
+
+### My Blueprint of LinkedIn Homepage :
+
+![Screenshot (172)](https://user-images.githubusercontent.com/61161878/88181243-319a5480-cc4c-11ea-91ca-f2d69df01c2f.png)
