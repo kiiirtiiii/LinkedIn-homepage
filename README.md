@@ -53,4 +53,5 @@ My blueprint have some different icons from the actual LinkedIn page as I was un
 
 ### My Blueprint LinkedIn Homepage:
 
+
 ![Screenshot (182)](https://user-images.githubusercontent.com/61161878/88182933-70c9a500-cc4e-11ea-96de-1c28d94465e5.png)
