@@ -1,5 +1,5 @@
 # LinkedIn-homepage
- https://kirtisharma05.github.io/LinkedIn-homepage/
+ https://kiiirtiiii.github.io/LinkedIn-homepage/
 
 I've tried to form a statis homepage which exactly looks like LinkedIn Homepage.
 I've created this only using HTML, CSS and Bootstrap.
